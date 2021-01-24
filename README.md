@@ -6,7 +6,7 @@ This project was generated using [Nx](https://nx.dev).
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
-## Quick Start & Documentation
+### Quick Start & Documentation
 
 [Nx Documentation](https://nx.dev/angular)
 
@@ -96,4 +96,5 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+
 # rxTuto
